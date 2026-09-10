@@ -1,5 +1,7 @@
 # Philips SpeechMike (composite USB audio+HID) not appearing in Omnissa/VMware Horizon Client USB redirection
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ## Symptom
 
 A Philips SpeechMike (III/Premium/Air-family devices are all similar composite
